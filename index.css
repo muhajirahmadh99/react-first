@@ -1,3 +1,3 @@
-#root{
-    color: rgb(23, 59, 218);
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
